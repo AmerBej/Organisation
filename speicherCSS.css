@@ -1,0 +1,9 @@
+.tagebuchEintrag {
+    height: 300px;
+    width: 200px;
+    background-color: red;
+}
+
+.tagebuchEintrag:active {
+    size: 1.5em;
+}

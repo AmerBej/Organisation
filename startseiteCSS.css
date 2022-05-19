@@ -1,0 +1,15 @@
+a.links-navbar {
+    border: none;
+    background: none;
+    color: rgb(12, 14, 11);
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "tisa";
+    padding: 15px 0px;
+    word-wrap: normal;
+    display: inline-block;
+}
+
+#navbar-main {
+    margin-top: 100px;
+}
